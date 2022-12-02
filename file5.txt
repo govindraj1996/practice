@@ -1,0 +1,3 @@
+this is text file
+developed by developer1
+ready to go
